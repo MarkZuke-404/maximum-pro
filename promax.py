@@ -43,7 +43,7 @@ def main():
 	print(" \x1b[1;37m     [1] START CLONING\n")
 	os.system('echo -e "========================================================"')
 	print("")
-	os.system('xdg-open https://www.facebook.com/LEGION.XWD ')
+	os.system('xdg-open https://www.facebook.com/Itz.RAKiB.Sakib.Take.love ')
 	log_sel()
 def log_sel():
 	sel = raw_input(" Choose  ➤: ")
